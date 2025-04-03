@@ -143,8 +143,8 @@ export default function Home() {
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/images/forest.jpg"
-                  alt="Dense forest with sunlight streaming through the trees"
+                  src="/meditation.jpeg"
+                  alt="mediattion"
                   width={800}
                   height={600}
                   className="h-[300px] w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -153,7 +153,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Forest Light
+                      Simha Meditating
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -177,14 +177,14 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    Sunbeams filtering through ancient trees in a misty forest, creating a magical atmosphere.
+                    Devre first nang olled madappa, time idre bere avrge olled maadu
                   </p>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/images/city.jpg"
-                  alt="Urban cityscape at night with lights reflecting in water"
+                  src="/simha_kothi.jpg"
+                  alt="simha_kothi"
                   width={800}
                   height={600}
                   className="h-[300px] w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -193,7 +193,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      City Reflections
+                      Simha Bali
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -217,14 +217,14 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    A vibrant cityscape at night with colorful lights reflecting in the calm waters of the harbor.
+                    Nammavana yendu noodutiruva kothi
                   </p>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/images/desert.jpg"
-                  alt="Desert landscape with sand dunes at sunset"
+                  src="/doctor_naanu_illi.jpeg.jpg"
+                  alt="doctor_naanu_illi"
                   width={800}
                   height={600}
                   className="h-[300px] w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -233,7 +233,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Desert Gold
+                      Doc's Supremacy
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -257,13 +257,13 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    Endless sand dunes of the desert bathed in golden light as the sun sets on the horizon.
+                    Ond nimsha Doctor naanu illi, nan order kodtini!
                   </p>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/images/snow.jpg"
+                  src="/simha doesn't know what he's doing.jpeg"
                   alt="Snowy mountain peak with alpenglow"
                   width={800}
                   height={600}
@@ -273,7 +273,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Alpine Glow
+                      Govinda Govinda
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -297,7 +297,7 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    A majestic snow-capped mountain peak illuminated by the pink and orange hues of alpenglow.
+                    Simha dosen't know what he's doing.
                   </p>
                 </div>
               </div>
