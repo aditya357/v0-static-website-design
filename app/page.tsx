@@ -183,7 +183,7 @@ export default function Home() {
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/simha_kothi.jpg"
+                  src="/simha_kothi.jpeg"
                   alt="simha_kothi"
                   width={800}
                   height={600}
@@ -223,7 +223,7 @@ export default function Home() {
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/doctor_naanu_illi.jpeg.jpg"
+                  src="/doctor_naanu_illi.jpeg"
                   alt="doctor_naanu_illi"
                   width={800}
                   height={600}
@@ -263,7 +263,7 @@ export default function Home() {
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/simha doesn't know what he's doing.jpeg"
+                  src="/grp_photo.jpeg"
                   alt="Snowy mountain peak with alpenglow"
                   width={800}
                   height={600}
@@ -273,7 +273,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Govinda Govinda
+                      Group Photo
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -297,7 +297,7 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    Simha dosen't know what he's doing.
+                    Last alli ond Group Photo
                   </p>
                 </div>
               </div>
