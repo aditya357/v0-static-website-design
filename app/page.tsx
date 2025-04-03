@@ -57,14 +57,14 @@ export default function Home() {
                 Beautiful Moments Captured
               </h1>
               <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                A collection of stunning photographs from around the world. Each image tells a unique story.
+                A collection of stunning photos and dialogues from Ooty. Each image tells a unique story.
               </p>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/image3.png"
-                  alt="Mountain landscape with a lake in the foreground"
+                  src="/mylari.jpeg"
+                  alt="mylari breakfast"
                   width={800}
                   height={600}
                   className="h-[300px] w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -73,7 +73,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Mountain Serenity
+                      Simha Dissapointment
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -97,14 +97,14 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    A breathtaking view of the mountains reflecting in a crystal clear lake at sunrise.
+                    No Hot Vada's available, Simha dissapointed @Mylari's!
                   </p>
                 </div>
               </div>
               <div className="group relative overflow-hidden rounded-lg shadow-md transition-all hover:shadow-xl">
                 <Image
-                  src="/images/ocean.jpg"
-                  alt="Ocean waves crashing on a beach at sunset"
+                  src="/dhruva.jpeg"
+                  alt="Dhruva jumping"
                   width={800}
                   height={600}
                   className="h-[300px] w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -113,7 +113,7 @@ export default function Home() {
                 <div className="absolute bottom-0 left-0 right-0 p-4">
                   <div className="flex justify-between items-center">
                     <h3 className="text-lg font-semibold text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      Sunset Waves
+                      Dhruva jumping
                     </h3>
                     <div className="flex gap-2">
                       <Button
@@ -137,7 +137,7 @@ export default function Home() {
                 </div>
                 <div className="p-4 bg-white">
                   <p className="text-sm text-gray-500">
-                    Golden hour at the beach with waves gently washing ashore as the sun sets on the horizon.
+                    Simha na savasa saaku guru aagtilla!
                   </p>
                 </div>
               </div>
